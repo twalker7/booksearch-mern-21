@@ -14,9 +14,9 @@ An application built to search a third-party library api for book titles and res
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [Contributing](#Contributing)
-* [Contact](#Contact)
-* [Application](#Application)
+* [Contributing](#contributing)
+* [Contact](#contact)
+* [Application](#application)
 
 
 ## Installation
@@ -50,10 +50,12 @@ Thomas Walker
 
 
 ## Tests
-No test modules were used in the build process of this application 
+
 
 ## Contact
 
  github.com/twalker7
 
  ## Application
+
+https://book-search-21-mern.herokuapp.com/
