@@ -6,7 +6,7 @@
 
 ## Description 
 
-MongoDB, Express, ReactJS, Node.js
+An application built to search a third-party library api for book titles and respective information
 
 ## Table of Contents
 
@@ -26,7 +26,8 @@ MongoDB, Express, ReactJS, Node.js
 MongoDB,  
 Express, 
 ReactJS, 
-Node.js
+Node.js,
+Redux,
 
 
 ## Usage 
